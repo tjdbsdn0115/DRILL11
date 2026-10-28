@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Drill11"
+		},
+		{
+			"path": "../docs"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../__pycache__"
+		}
+	],
+	"settings": {}
+}
